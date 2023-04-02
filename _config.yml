@@ -66,16 +66,16 @@ avatar: "https://avatars0.githubusercontent.com/u/8897534"
 # All the social media and other sites that we want to link to. The 'show' flag determines if the link is shown.
 # The order of this list controls the order of the links on the page. Feel free to add.
 links:
-  - xing:
-      name: Xing
-      show: false
-      href: https://www.xing.com/profile/YOUR_XING_USERNAME/
-      icon: fab fa-xing
-  - linkedin:
-      name: LinkedIn
-      show: false
-      href: https://linkedin.com/in/YOUR_LINKEDIN_USERNAME/
-      icon: fab fa-linkedin
+  - discord:
+      name: Discord
+      show: true
+      href: https://discord.com/users/AdilSadqi#6482
+      icon: fab fa-discord
+  - whatsapp
+      name: Whatsapp
+      show: true
+      href: https://api.whatsapp.com/send?phone=17253331912&text=Hi%20%2CI%20got%20your%20Whatsapp%20number%20from%20your%20Terminal%20%F0%9F%98%8A
+      icon: fab fa-whatsapp-square
   - googleplus:
       name: Google+
       show: false
@@ -84,11 +84,11 @@ links:
   - twitter:
       name: Twitter
       show: true
-      href: https://twitter.com/YOUR_TWITTER_USERNAME
+      href: https://twitter.com/adilsadqi/
       icon: fab fa-twitter
   - weibo:
       name: 微博
-      show: true
+      show: false
       href: https://weibo.com/YOUR_WEIBO_USERNAME
       icon: fab fa-weibo
   - vine:
@@ -103,13 +103,13 @@ links:
       icon: fab fa-facebook
   - vkontakte:
       name: ВКонтакте
-      show: true
+      show: false
       href: https://vk.com/YOUR_VK_USERNAME
       icon: fab fa-vk
   - instagram:
       name: Instagram
-      show: false
-      href: https://instagram.com/YOUR_INSTAGRAM_USERNAME
+      show: true
+      href: https://www.instagram.com/sadqi.adil/
       icon: fab fa-instagram
   - flickr:
       name: Flickr
@@ -133,8 +133,8 @@ links:
       icon: fab fa-lastfm
   - github:
       name: GitHub
-      show: true
-      href: https://github.com/tsjensen
+      show: false
+      href: https://github.com/AdilSadqi
       icon: fab fa-github
   - codepen:
       name: CodePen
@@ -164,18 +164,18 @@ links:
   - blog:
       name: Blog
       show: true
-      href: http://host.domain/your_blog
+      href: https://asadqi.com
       icon: fas fa-book-open
   - email:
       name: Email
       show: true
-      href: mailto:jonathan.doe@host.domain
+      href: mailto:adil@asadqi.com
       icon: fas fa-envelope
-  - publickey:
-      name: PGP Key
+  - phone:
+      name: Phone
       show: true
-      href: https://pastebin.com/raw/YOUR_PUBLIC_KEY
-      icon: fas fa-key
+      href: tel:+212624489471
+      icon: fab fa-phone-alt
 
 
 # Extra HTML which will be displayed below the links. Keep it short. Leave empty to disable.
